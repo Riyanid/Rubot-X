@@ -30,19 +30,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
-global.sgh = '-' //github
+global.sig = 'https://instagram.com/yannstory_'
+global.sgh = 'https://github.com/riyanid' //github
 global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082127487538' //dana
-global.povo = '082127487538' //ovo
-global.pgopay = '082127487538' //gopay
-global.plinkaja = '082127487538' //link aja
-global.ppulsa = '082127487538' //telkomsel
-global.ppulsa2 = '082127487538' // kalau ada kartu lain isi aja
+global.pdana = '081511879987' //dana
+global.povo = '081511879987' //ovo
+global.pgopay = '081511879987' //gopay
+global.plinkaja = '081511879987' //link aja
+global.ppulsa = '081511879987' //telkomsel
+global.ppulsa2 = '081511879987' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
@@ -58,9 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['6282159957081', 'WH-MODS-BOT-V1', true],
-  ['6288298925386', 'WH-MODS-BOT-V2', true],
+  ['6285711450232', 'RYANADA', true],
+  ['6285711450232', 'RUBOT-X-V1', true],
+  ['6285711450232', 'RUBOT-X-V2', true],
   ['6285711450232', 'RYANADA', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'RubotX'
+global.stickauth = `By ©Ryanada`
 
 global.multiplier = 38 // The higher, The harder levelup
 
