@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/yannstory_'
 global.sgh = 'https://github.com/riyanid' //github
 global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = '-' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '081511879987' //dana
