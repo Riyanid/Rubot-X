@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'RubotX'
-global.stickauth = `By ©Ryanada`
+global.stickauth = `By Ryanada`
 
 global.multiplier = 38 // The higher, The harder levelup
 
